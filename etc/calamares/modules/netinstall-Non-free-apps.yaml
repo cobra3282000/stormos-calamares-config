@@ -1,0 +1,87 @@
+- name: "StormOS Defaults"
+  description: "Defaults"
+  hidden: true
+  selected: true
+  critical: false
+  expanded: false
+  packages:
+   - stormos-conf
+- name: "apps"
+  description: "optional apps"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+   - lutris
+   - wine-staging
+   - steam
+   - steam-native-runtime
+   - telegram-desktop
+   - firefox
+   - flameshot
+   - discord
+   - qbittorrent
+   - timeshift-bin
+- name: "Kernels"
+  description: "different kernels for different hardware"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+   - linux-zen
+   - linux-zen-headers
+   - linux-lts
+   - linux-lts-headers
+- name: "XFCE desktop customized"
+  description: "XFCE desktop environment with StormOS customizations"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+   - stormos-xfce-config
+   - xfce4
+   - xfce4-goodies
+- name: "XFCE desktop vanilla"
+  description: "XFCE desktop environment with NO customizations"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+   - xfce4
+   - xfce4-goodies
+- name: "Graphics and Input Drivers"
+  description: "Hardware drivers"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+   - nvidia-dkms
+   - nvidia
+   - nvidia-utils
+   - nvidia-prime
+   - nvidia-settings
+   - acpi_call
+   - lib32-nvidia-utils
+   - xf86-video-nouveau
+   - xf86-video-ati
+   - xf86-video-amdgpu
+   - xf86-video-intel
+   - open-vm-tools
+   - virtualbox-guest-dkms
+   - spice-gtk
+   - spice-protocol
+   - spice-up
+   - spice-vdagent
+   - supergfxctl
+   - lenovolegionlinux-git
+   - lenovolegionlinux-dkms-git
+   - extremecooling4linux
+   - indicator-extremecooling4linux
+   - ideapad-cm
+   - libinput-gestures
+   - tlp
