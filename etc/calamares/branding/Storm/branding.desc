@@ -12,13 +12,13 @@ windowPlacement: center
 sidebar: qml,top
 
 strings:
-    productName:         StormOS
-    shortProductName:    StormOS
-    version:             2024.01
-    shortVersion:        2024.01.24
-    versionedName:       StormOS 2024.01.24
-    shortVersionedName:  StormOS 24.01
-    bootloaderEntryName: StormOS
+    productName:         Storm
+    shortProductName:    Storm
+    version:             2024.04
+    shortVersion:        2024.04
+    versionedName:       Storm 2024.04
+    shortVersionedName:  Storm 24.04
+    bootloaderEntryName: Storm
 
 images:
     productLogo:         "squid.png"
