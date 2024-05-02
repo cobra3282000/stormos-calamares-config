@@ -16,15 +16,6 @@
   packages:
     - linux-lts
     - linux-lts-headers
-- name: "Latest Linux-hardened Kernel"
-  description: "Installs the Linux Hardened Kernel"
-  critical: false
-  hidden: false
-  selected: false
-  expanded: false
-  packages:
-    - linux-hardened
-    - linux-hardened-headers
 - name: "Latest Linux-Zen Kernel"
   description: "Installs the linux-zen kernel"
   critical: false
