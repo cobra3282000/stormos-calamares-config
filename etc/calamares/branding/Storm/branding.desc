@@ -14,8 +14,8 @@ sidebar: qml,top
 strings:
     productName:         StormOS
     shortProductName:    StormOS
-    version:             24.07
-    shortVersion:        24.07
+    version:             Vida
+    shortVersion:        Vida
     versionedName:       StormOS
     shortVersionedName:  StormOS
     bootloaderEntryName: StormOS
