@@ -1,5 +1,5 @@
 ---
-componentName:  Acreetion
+componentName:  Acreetion-OS
 
 welcomeStyleCalamares:   false
 
@@ -12,13 +12,13 @@ windowPlacement: center
 sidebar: qml,top
 
 strings:
-    productName:         AcreetionOS
-    shortProductName:    AcreetionOS
+    productName:         Acreetion-OS
+    shortProductName:    Acreetion-OS
     version:             Vida
     shortVersion:        Vida
-    versionedName:       AcreetionOS
-    shortVersionedName:  AcreetionOS
-    bootloaderEntryName: AcreetionOS
+    versionedName:       Acreetion-OS
+    shortVersionedName:  Acreetion-OS
+    bootloaderEntryName: Acreetion-OS
 
 images:
     productLogo:         "squid.png"
