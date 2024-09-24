@@ -1,5 +1,5 @@
 ---
-componentName:  Storm
+componentName:  Acreetion
 
 welcomeStyleCalamares:   false
 
@@ -12,13 +12,13 @@ windowPlacement: center
 sidebar: qml,top
 
 strings:
-    productName:         StormOS
-    shortProductName:    StormOS
+    productName:         AcreetionOS
+    shortProductName:    AcreetionOS
     version:             Vida
     shortVersion:        Vida
-    versionedName:       StormOS
-    shortVersionedName:  StormOS
-    bootloaderEntryName: StormOS
+    versionedName:       AcreetionOS
+    shortVersionedName:  AcreetionOS
+    bootloaderEntryName: AcreetionOS
 
 images:
     productLogo:         "squid.png"
