@@ -74,13 +74,13 @@
     - virtualbox
     - virtualbox-host-dkms
     - virtualbox-guest-utils
-
 -name: "Cinnamon Configs"
   description: "Cinnamon Config files"
   critical: false
+  hidden: false 
   Selected: True
+  expanded: false
   packages:
-
     - fastfetch
     - cinnamon-configs
     - yay
