@@ -78,10 +78,10 @@
   description: "Cinnamon Config files"
   critical: false
   hidden: false 
-  selected: True
+  selected: true
   expanded: false
   packages:
     - fastfetch
-    - cinnamon-configs
+    - nano 
 
 
